@@ -116,6 +116,7 @@ Install the [WorkflowLearning GitHub App](https://github.com/apps/workflowlearni
 - **only** on your `CS471WorkflowsHomeworkAssignment` repository (**NOT** on all your repositories) <details><summary>(click to see a screenshot)</summary>
 ![InstallTheWorkflowLearningGitHubApp_Step2_OnlyOnYourCS471WorkflowsHomeworkAssignmentRepository](images/InstallTheWorkflowLearningGitHubApp_Step2_OnlyOnYourCS471WorkflowsHomeworkAssignmentRepository.png)
 
+HW part 2 commit 1
   ---
 
 </details>
