@@ -117,6 +117,7 @@ Install the [WorkflowLearning GitHub App](https://github.com/apps/workflowlearni
 ![InstallTheWorkflowLearningGitHubApp_Step2_OnlyOnYourCS471WorkflowsHomeworkAssignmentRepository](images/InstallTheWorkflowLearningGitHubApp_Step2_OnlyOnYourCS471WorkflowsHomeworkAssignmentRepository.png)
 
 HW part 2 commit 1
+HW part 2 commit 2
   ---
 
 </details>
