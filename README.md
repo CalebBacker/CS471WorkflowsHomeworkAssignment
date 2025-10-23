@@ -118,6 +118,7 @@ Install the [WorkflowLearning GitHub App](https://github.com/apps/workflowlearni
 
 HW part 2 commit 1
 HW part 2 commit 2
+HW part 2 commit 3
   ---
 
 </details>
