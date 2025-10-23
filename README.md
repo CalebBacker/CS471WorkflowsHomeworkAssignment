@@ -1,4 +1,5 @@
 HW part 2 commit 1
+HW part 3 commit 2
 
 # Workflows and Integration Strategies
 This assignment will incentivize you to get familiar with the different GitHub workflow strategies for:
